@@ -1,0 +1,41 @@
+/* mystyle.css*/
+html, body, #mapdiv {
+	height: 100%;
+	margin-top: 22px;
+}
+
+.navbar-brand {
+	background-color: #f8f8f8;
+	border-color: #fafafa;
+	font-family: 'Merriweather Sans', sans-serif;
+	height: auto;
+}
+.navbar-nav {
+	background-color: #f8f8f8;
+	border-color: #fafafa;
+	font-family: 'Merriweather Sans', sans-serif;
+	position: relative;
+    top: 5px;
+}
+.navbar-brand img {
+ 	resize: both;
+	width: 100%;
+}
+.navbar-toggle {
+	margin-top: 17px;
+}
+
+#formstyle {
+	margin: 5%;
+	margin-top: 22px;
+}
+
+.mapfont {
+	font-family: 'Merriweather Sans', sans-serif;
+	height: auto;
+	margin: 5%
+	margin-top: 22px;
+}
+.btn:hover {
+	background-color: #ffa12d;
+}
