@@ -1,0 +1,53 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+#rightPane {
+width: 20%;
+margin-top: 230px;
+margin-bottom: -70px;
+}
+#map{
+margin-top: 230px;
+margin-bottom: -70px;
+ }
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:center;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px; /* fixed width */
+text-decoration:none; 
+font-family: 'Raleway', sans-serif;
+font-size: 1.2em;
+}
+.video-container {
+	position: relative;
+}
+video {
+	height: auto;
+	vertical-align: middle;
+	width: 100%;
+}
+.overlay-desc{
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+	font-family: 'Raleway',sans-serif;
+	position: absolute;
+	text-align: center;
+	line-height: 40px;
+	padding-right: 100px;
+	padding-left: 100px;
+}
