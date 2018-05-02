@@ -75,13 +75,13 @@ h1 {
 	width: 800px;
 }
 #random {
-	width: 475px;
+	width: 425px;
 	font-family: 'Raleway',sans-serif;
 	position: relative;
 	line-height: 20px;
-	bottom: 290px;
+	bottom: 320px;
 	left: 66%;
-	margin-left: -150px;
+	margin-left: -120px;
 }
 #footer{
 	width: 220px;
@@ -107,7 +107,7 @@ h1 {
 	height: 250px;
 	width: 3px;
 	position: relative;
-	bottom: 500px;
+	bottom: 550px;
 	left: 62%;
 	margin-left: -370px;
 	background-color: #2ab3d0;	
